@@ -16,7 +16,7 @@
 
 ## Overview
 
-EZShop`Pro is a versatile e-commerce web application crafted using Django 4.x, Python 3.x, Bootstrap, and Tailwind CSS. It employs an SQLite3 database and offers users a seamless experience to browse products, manage their shopping cart, and securely complete purchases using Stripe. The platform is designed to be user-centric and provides an intuitive interface for both customers and administrators.
+EasyBuy is a versatile e-commerce web application crafted using Django 4.x, Python 3.x, Bootstrap, and Tailwind CSS. It employs an SQLite3 database and offers users a seamless experience to browse products, manage their shopping cart, and securely complete purchases using Stripe. The platform is designed to be user-centric and provides an intuitive interface for both customers and administrators.
 
 ---
 
